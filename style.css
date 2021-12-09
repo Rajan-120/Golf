@@ -1,0 +1,23 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background:url(Grass.jpg);
+}
+#myCanvas
+{
+	margin-top: 100px;
+    border-width:10px;
+    border-style:ridge;
+	background:url(golf-course.jpg);
+	background-size: cover;
+}
+
+
+#hd3{
+	display: inline-block;
+	color: red;
+	background-color: aliceblue;
+	font-family: fantasy;
+}
+
